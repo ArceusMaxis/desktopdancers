@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://c5sls0eymi6q"]
+
+[ext_resource type="Texture2D" uid="uid://lo270hvt8a06" path="res://gifs/toothless.gif" id="1_7b5sj"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Toothless" type="Sprite2D" parent="."]
+position = Vector2(51, 51)
+scale = Vector2(0.204819, 0.266319)
+texture = ExtResource("1_7b5sj")

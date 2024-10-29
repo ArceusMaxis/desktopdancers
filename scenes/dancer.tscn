@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://dsrpqlj0nxam3"]
+
+[ext_resource type="Texture2D" uid="uid://djlcrbeu7uda7" path="res://gifs/dancer.gif" id="1_2praa"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Dancer" type="Sprite2D" parent="."]
+position = Vector2(51, 51)
+scale = Vector2(0.159375, 0.159375)
+texture = ExtResource("1_2praa")

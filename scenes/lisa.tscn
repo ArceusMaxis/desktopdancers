@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://bn2smdkdymfh6"]
+
+[ext_resource type="Texture2D" uid="uid://bl5ac2upyjws5" path="res://gifs/lisa.gif" id="1_j27r2"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Lisa" type="Sprite2D" parent="."]
+position = Vector2(50.5, 45.5)
+scale = Vector2(0.46, 0.43295)
+texture = ExtResource("1_j27r2")

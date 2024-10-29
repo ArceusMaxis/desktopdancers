@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://vy23qkkemyo3"]
+
+[ext_resource type="Texture2D" uid="uid://despmi6jawox8" path="res://gifs/jai.gif" id="1_6ge8f"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Jai" type="Sprite2D" parent="."]
+position = Vector2(51, 52)
+scale = Vector2(0.28, 0.28)
+texture = ExtResource("1_6ge8f")

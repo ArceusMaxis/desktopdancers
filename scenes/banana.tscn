@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://cfgkmjqm41ti0"]
+
+[ext_resource type="Texture2D" uid="uid://dekoj73u10x2s" path="res://gifs/banana.gif" id="1_c2qmf"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Banana" type="Sprite2D" parent="."]
+position = Vector2(51, 50.9375)
+scale = Vector2(0.10303, 0.0972619)
+texture = ExtResource("1_c2qmf")

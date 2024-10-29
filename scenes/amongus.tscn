@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://b2x4a1uspojpm"]
+
+[ext_resource type="Texture2D" uid="uid://b5ih1axe13x7o" path="res://gifs/among-us.gif" id="1_0pkt4"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Among-us" type="Sprite2D" parent="."]
+position = Vector2(51, 51)
+scale = Vector2(0.2, 0.2)
+texture = ExtResource("1_0pkt4")
